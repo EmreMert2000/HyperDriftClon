@@ -968,7 +968,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: -0, y: -0.6902056, z: -0, w: 0.7236134}
-  m_LocalPosition: {x: 7.62, y: 2.91, z: -18.44}
+  m_LocalPosition: {x: 5, y: 3, z: -18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -988,7 +988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1901766788}
-  offset: {x: 0, y: 10, z: -5}
+  offset: {x: 5, y: 3, z: -18}
 --- !u!1 &1116406631
 GameObject:
   m_ObjectHideFlags: 0
@@ -1395,7 +1395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b42ecd7b24d0a0a49b705efee4a2f890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carSpeed: 40
+  carSpeed: 20
   maxSpeed: 100
   steerangle: 20
   tracktion: 1
